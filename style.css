@@ -1,0 +1,9 @@
+body{
+   background-image: url(https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFuZHxlbnwwfHwwfHx8MA%3D%3D),url(https://www.daysoftheyear.com/wp-content/uploads/look-up-at-the-sky-day-1.jpg),
+       url(https://img.freepik.com/free-photo/seascape-texture-waves-water-generative-ai_169016-30500.jpg),url(https://cdn.britannica.com/42/188142-050-4D4D9D19/wildfire-Stanislaus-National-Forest-California-2013.jpg);
+    background-position: right top,left top,right bottom,left bottom;
+    background-repeat: no-repeat,no-repeat,no-repeat,no-repeat;
+    background-size: 800px 400px;
+}
+
+    
